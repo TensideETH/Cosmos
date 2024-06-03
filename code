@@ -1,0 +1,4 @@
+def explore_code_cosmos():
+    print("Exploring the vastness of the Code Cosmos...")
+
+explore_code_cosmos()
